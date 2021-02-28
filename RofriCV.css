@@ -1,0 +1,54 @@
+body{
+    font-family: "montserrat";
+    text-align: "center";
+}
+
+.big-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+}
+
+.navbar {
+    background-color: #6946e6 !important;
+}
+
+/* SECTIONS */
+.colored-section{
+    background-color: #6946e6;
+    color: white;
+}
+
+.container-fluid{
+    padding: 5% 15%;
+}
+
+#button2 {
+    border: 2px solid rgb(235, 230, 230);
+    background-color: transparent;
+    color: rgb(255, 251, 251);
+    margin-top: 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+.tes {
+    position: absolute;
+    right: 32px;
+    top: 50px;
+}
+
+#aboutme {
+    background-color: white;
+    color: black;
+}
+
+#job {
+    background-color: white;
+    color: black;
+}
+
+#footer {
+    background-color: blue;
+    color: white;
+
+}
